@@ -5,6 +5,13 @@ public class Assignment10 {
         float deliveryCost;
         if ( destination.equals("US") ) {
             deliveryCost = 20.0f;
+            if (orderValue > 100.00f) {
+                deliveryCost -= 5.00f;
+                // deliveryCost = deliveryCost - 5.00f;
+            }
+            if (saturdayDelivery) {
+                deliveryCost += 10.00f;
+            }
         } else if ( destination.equals("Mexico") ) {
             deliveryCost = 32.0f;
         } else {      // Assume that the country is Canada
