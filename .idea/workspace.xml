@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc87d785-8bc2-4d69-8ac1-40210e5358b4" name="Default" comment="" />
+    <list default="true" id="bc87d785-8bc2-4d69-8ac1-40210e5358b4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SwtichItUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheLegitSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/src/NumbersMath.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -24,8 +28,8 @@
       <file leaf-file-name="Conditions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Conditions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="243">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -39,11 +43,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Assignment10.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Assignment10.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Assignment10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="39" />
+            <state relative-caret-position="108">
+              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwtichItUp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SwtichItUp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="30" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="3" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TheLegitSwitch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TheLegitSwitch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -67,6 +89,8 @@
         <option value="$PROJECT_DIR$/src/Conditions.java" />
         <option value="$PROJECT_DIR$/src/RealWorldNest.java" />
         <option value="$PROJECT_DIR$/src/Assignment10.java" />
+        <option value="$PROJECT_DIR$/src/SwtichItUp.java" />
+        <option value="$PROJECT_DIR$/src/TheLegitSwitch.java" />
       </list>
     </option>
   </component>
@@ -91,6 +115,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,8 +134,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Assignment10">
+  <component name="RunManager" selected="Application.TheLegitSwitch">
     <configuration name="Assignment10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment10" />
       <module name="LearningJavaGit" />
@@ -143,6 +167,16 @@
     </configuration>
     <configuration name="NumbersMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumbersMath" />
+      <module name="LearningJavaGit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="SwtichItUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwtichItUp" />
+      <module name="LearningJavaGit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TheLegitSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheLegitSwitch" />
       <module name="LearningJavaGit" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -191,9 +225,13 @@
       <item itemvalue="Application.NumbersMath" />
       <item itemvalue="Application.Conditions" />
       <item itemvalue="Application.Assignment10" />
+      <item itemvalue="Application.SwtichItUp" />
+      <item itemvalue="Application.TheLegitSwitch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheLegitSwitch" />
+        <item itemvalue="Application.SwtichItUp" />
         <item itemvalue="Application.Assignment10" />
         <item itemvalue="Application.Conditions" />
         <item itemvalue="Application.NumbersMath" />
@@ -211,12 +249,13 @@
       <option name="presentableId" value="Default" />
       <updated>1572275243815</updated>
       <workItem from="1572275249212" duration="3002000" />
-      <workItem from="1572305443970" duration="9497000" />
+      <workItem from="1572305443970" duration="9515000" />
+      <workItem from="1572390731777" duration="1089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12499000" />
+    <option name="totallyTimeSpent" value="13606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1040" height="784" extended-state="6" />
@@ -232,11 +271,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.10911809" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2032885" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1640625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1640625" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -261,21 +300,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/NumbersMath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumbersMath.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Conditions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
+        <state relative-caret-position="243">
           <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
@@ -289,8 +321,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="729">
           <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumbersMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumbersMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Conditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RealWorldNest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwtichItUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="30" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TheLegitSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
         </state>
       </provider>
     </entry>
