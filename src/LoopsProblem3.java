@@ -27,10 +27,40 @@ public class LoopsProblem3 {
 
         return arr;
     }
+
+    public static void FindMissingAndReplicated(int[] arr)
+    {
+        int missing = -1;
+        int twice = -1;
+        int found;
+
+        for (int x=1; x<=100;x++)
+        {
+            found = 0;
+            for (int n=0;n<arr.length;n++)
+            {
+                if (x==arr[n])
+                {
+                    found++;
+                }
+            }
+            if (found == 0)
+            {
+                missing = x;
+            }
+            if (found >= 2)
+            {
+                twice = x;
+            }
+        }
+        System.out.println("Missing: " + missing);
+        System.out.println("Twice: " + twice);
+    }
     public static void main(String[] args) {
         int[] arrOfInts = generateArray();
         for (int i=0;i<arrOfInts.length;i++) {
             System.out.println(arrOfInts[i]);
         }
+        FindMissingAndReplicated(arrOfInts);
     }
 }

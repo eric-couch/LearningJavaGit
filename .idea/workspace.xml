@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc87d785-8bc2-4d69-8ac1-40210e5358b4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LoopsProblem3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopsProblem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopsProblem3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="LoopsProblem3.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LoopsProblem3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            <state relative-caret-position="547">
+              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -87,10 +86,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="2096" />
+    <option name="y" value="98" />
+    <option name="width" value="768" />
+    <option name="height" value="576" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -235,12 +234,12 @@
       <workItem from="1572305443970" duration="9515000" />
       <workItem from="1572390731777" duration="10886000" />
       <workItem from="1572478586065" duration="3880000" />
-      <workItem from="1572878238377" duration="8318000" />
+      <workItem from="1572878238377" duration="8587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35601000" />
+    <option name="totallyTimeSpent" value="35870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -256,7 +255,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19979613" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21100917" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -536,8 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LoopsProblem3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="547">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
         </state>
       </provider>
     </entry>
