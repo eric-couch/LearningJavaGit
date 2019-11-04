@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc87d785-8bc2-4d69-8ac1-40210e5358b4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LoopsProblem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoopsProblem2AdvancedSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopsProblem4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopsProblem4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +31,7 @@
       <file leaf-file-name="LoopsProblem3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LoopsProblem3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
+            <state relative-caret-position="540">
               <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
             </state>
           </provider>
@@ -39,8 +40,17 @@
       <file leaf-file-name="LoopsProblem2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LoopsProblem2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="459">
+              <caret line="17" column="44" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="17" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoopsProblem2AdvancedSolution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LoopsProblem2AdvancedSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -48,8 +58,8 @@
       <file leaf-file-name="LoopsProblem4.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LoopsProblem4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            <state relative-caret-position="125">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -84,6 +94,7 @@
         <option value="$PROJECT_DIR$/src/LoopsProblem2.java" />
         <option value="$PROJECT_DIR$/src/LoopsProblem3.java" />
         <option value="$PROJECT_DIR$/src/LoopsProblem4.java" />
+        <option value="$PROJECT_DIR$/src/LoopsProblem2AdvancedSolution.java" />
       </list>
     </option>
   </component>
@@ -245,12 +256,12 @@
       <workItem from="1572305443970" duration="9515000" />
       <workItem from="1572390731777" duration="10886000" />
       <workItem from="1572478586065" duration="3880000" />
-      <workItem from="1572878238377" duration="9058000" />
+      <workItem from="1572878238377" duration="11188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36341000" />
+    <option name="totallyTimeSpent" value="38471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -265,7 +276,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4485219" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45056066" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -529,20 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LoopsProblem2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LoopsProblem3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -550,10 +547,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoopsProblem3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoopsProblem2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoopsProblem2AdvancedSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LoopsProblem4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        <state relative-caret-position="125">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="40" />
         </state>
       </provider>
     </entry>

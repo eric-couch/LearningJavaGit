@@ -1,4 +1,4 @@
-import java.util.Scanner;7
+import java.util.Scanner;
 
 public class LoopsProblem4 {
     static Scanner sc = new Scanner((System.in));
